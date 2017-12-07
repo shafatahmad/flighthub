@@ -1,0 +1,114 @@
+body {
+    background-color:azure;
+}
+
+
+.container-fluid{
+    padding-top: 10px;
+    padding-bottom:120px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 30px;
+}
+
+.bg-1{
+    background: #0078d7;
+    background: -webkit-linear-gradient(#0078d7, indianred);
+    background: -o-linear-gradient(#0078d7, indianred);
+    background: linear-gradient(#0078d7, indianred);
+    color: white;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 26px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+ div.rs4 > h2{
+     text-align: center;
+ }
+
+p {
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    line-height: 3em;
+}
+
+.rs4 {
+    width: auto;
+    background-color: transparent;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+
+.table-bordered > tbody > tr > td, .table-bordered > thead > tr > th {
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid #0078d7;
+    text-align: center;
+    text-anchor: middle;
+    font-size: 15px;
+}
+
+.table-bordered th {
+    text-transform: capitalize;
+    color: white;
+    background-color: #0078d7;
+}
+
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: gold;
+}
+.navbar {
+    margin-bottom:0;
+    border-radius:0px;
+    padding: 10px;
+   background-color: #0078d7;
+   border: transparent;
+}
+
+.navbar ul li{
+    margin-right:15px;
+}
+
+.navbar ul li > a{
+    color:black;
+    font-size: 14px;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+    color: black;
+}
+.navbar-inverse .navbar-nav > li > a:hover{
+    color: whitesmoke;
+}
+
+.navbar-inverse .navbar-brand{
+    color: black;
+}
+.navbar-inverse .navbar-brand:hover{
+    color: whitesmoke;
+}
+
+.btn-success{
+    background-color: green;
+    color:white;
+}
