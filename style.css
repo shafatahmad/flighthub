@@ -59,8 +59,14 @@ table {
     font-family: 'Montserrat', sans-serif;
     border: 1px solid #0078d7;
     text-align: center;
-    text-anchor: middle;
+    vertical-align: middle;
     font-size: 15px;
+}
+
+@media screen and (max-width:480px){
+    .table-bordered > tbody > tr > td, .table-bordered > thead > tr > th {
+        font-size: 13px;
+    }
 }
 
 .table-bordered th {
