@@ -8,11 +8,9 @@
     src: url('Lato-Light.ttf');
 }
 
-
-body {
-    background-color:azure;
+body{
+    background-color: lavender;
 }
-
 
 .container-fluid{
     padding-top: 15px;
@@ -38,12 +36,11 @@ h1 {
 h2 {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    font-size: 26px;
 }
 h3{
     font-family: 'Lato', sans-serif;
-    font-size: 16px;
     text-align: center;
+    font-size: 16px;
 }
 
  div.rs4 > h2{
@@ -51,14 +48,14 @@ h3{
  }
 
 p {
-    font-size: 16px;
+    font-size: 18px;
     font-family: 'Lato', sans-serif;
     line-height: 3em;
 }
 
 .rs4 {
     width: auto;
-    background-color: transparent;
+    background-color:transparent;
 }
 
 table {
@@ -72,12 +69,12 @@ table {
     text-align: center;
     vertical-align: middle;
     font-size: 15px;
+    background-color:white;
 }
-
 .table-bordered > thead > tr > th {
-    text-transform: capitalize;
-    color: white;
     background-color: #0078d7;
+    height: 45px;
+    color: white;
 }
 
 @media screen and (max-width:480px){
@@ -92,29 +89,27 @@ table {
     h2{
         font-size: 20px;
     }
-    h3{
+    h3, p{
         font-size: 14px;
-    }
-    p{
-        font-size: 13px;
     }
 }
 
 
 a:hover {
     color: red;
+    text-decoration: none;
 }
 
 a:visited {
-    color: gold;
+    color: purple;
 }
 
 .navbar {
-    margin-bottom:0;
     border-radius:0px;
-    padding: 10px;
    background-color: #0078d7;
    border: transparent;
+   margin-bottom:0;
+   padding: 10px;
 }
 
 .navbar ul li{
@@ -130,10 +125,26 @@ a:visited {
     color: black;
 }
 .navbar-inverse .navbar-nav > li > a:hover{
-    color: whitesmoke;
+    color: white;
 }
 
 .btn-success{
-    background-color: green;
+    background-color: rgb(35, 209, 35);
     color:white;
+    border: none;
+}
+
+
+.tweet-section{
+    background-color:#6CADDE; /*#0078d7*/
+    padding: 20px;
+    margin: 20px 0px 0px 0px;
+}
+
+.tweet-section h1{
+    color: white;
+    padding: 10px;
+}
+.tweet-section h3{
+    color: white;
 }
