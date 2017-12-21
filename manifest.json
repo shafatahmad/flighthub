@@ -1,0 +1,102 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "FLIGHT HUB",
+    "scope": "/flighthub/",
+    "display": "browser",
+    "start_url": "https://shafatahmad.github.io/flighthub/",
+    "short_name": "FLIGHT HUB",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/2ef569e1-a53a-2c9b-f9f7-dcf9b58226c8.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2c0504f0-6ba2-6859-9d57-56fefe60c1a3.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/8fe96630-bd3c-6701-a6b5-809e3e60611a.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a4e300ec-962d-e84f-cd80-e49e16c458e8.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/531e3171-b7d8-5485-6784-a96824a662c1.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/5b0e1f32-4101-14fe-cc85-92ad58767920.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/db610dbf-b115-ed3f-ff91-15eed2f08c06.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/85cca038-7af2-a0ec-06aa-20c3a92e9215.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/54449322-0915-805b-fb77-8d43872046e8.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/3e9522c4-4b3e-ea47-caf5-de46f4ea38cc.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/cb6b8b58-db05-d1fb-9950-fe6db894f0ab.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/379cb9a4-9452-568d-bb5f-ca8a85f46e55.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a3b7c09c-b120-1be0-bc77-11036a6e7559.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/dc991f2f-9f30-6047-4ce7-1fd809d4d2dc.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/96fb99c0-c39a-b135-e8a3-994392c79230.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9db8d2c6-4f65-f537-1122-159b52b0c6fe.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9b78d05f-7117-107f-35ad-28c3b29f639a.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
